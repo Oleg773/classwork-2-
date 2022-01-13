@@ -1,0 +1,52 @@
+.ffd{
+    background: #477979;
+}
+
+.four{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: #477979;
+    text-align: center;
+    border: 5px solid;
+    color: orange;
+    margin-bottom: 10px;
+    margin-left:500px;
+    margin-top: 130px;
+}
+
+.three{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: #477979;
+    text-align: center;
+    border: 5px solid;
+    color: blue;
+    margin-bottom: 10px;
+    margin-left:500px;
+}
+
+.two{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: #477979;
+    text-align: center;
+    border: 5px solid;
+    color: deeppink;
+    margin-bottom: 10px;
+    margin-left:500px;
+}
+
+.one{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: #477979;
+    text-align: center;
+    border: 5px solid;
+    color: orangered;
+    margin-bottom: 10px;
+    margin-left:500px;
+}
